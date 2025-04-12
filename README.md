@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zarin Saima Roza</h1>
-<h3 align="center">Hi, I'm Roza, a Computer Science student at BRAC University with a passion for Machine Learning, Cloud Computing, and AI research. I make tech content on YT. Checkout here-</h3>
+<h3 align="center">Hi, I'm Roza, a Computer Science student at BRAC University with a passion for Machine Learning, Cloud Computing, and AI research. I make tech content on YouTube. Checkout here- <a href="https://www.youtube.com/c/@zarinsaimaroza7335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zarinsaimaroza7335" height="30" width="40" /></a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarinsaima333&label=Profile%20views&color=0e75b6&style=flat" alt="zarinsaima333" /> </p>
 
