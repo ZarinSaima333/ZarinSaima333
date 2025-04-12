@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zarin Saima Roza</h1>
-<h3 align="center">Hi, I'm Roza, a Computer Science student at BRAC University with a passion for Machine Learning, Cloud Computing, and AI research. I make tech content on YouTube. Checkout here- <a href="https://www.youtube.com/c/@zarinsaimaroza7335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zarinsaimaroza7335" height="30" width="40" /></a> </h3>
+<h3 align="center">Hi, I'm Roza, a Computer Science student at BRAC University with a passion for Machine Learning, Cloud Computing, and AI research. I make tech content on YouTube. Checkout here- <a href="https://www.youtube.com/@zarinsaimaroza7335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zarinsaimaroza7335" height="30" width="40" /></a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zarinsaima333&label=Profile%20views&color=0e75b6&style=flat" alt="zarinsaima333" /> </p>
 
@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/zarinsaima333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="zarinsaima333" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zarin-saima-roza-593972273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zarin-saima-roza-593972273/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@zarinsaimaroza7335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zarinsaimaroza7335" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zarin-saima-roza-593972273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zarin-saima-roza-593972273/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@zarinsaimaroza7335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@zarinsaimaroza7335" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
